@@ -1,0 +1,1 @@
+python3 train.py --val_file ../dataset/test_data/test.csv --train_file ../dataset/train_data/train.csv --train_root ../dataset/train_data/Train/ --val_root ../dataset/test_data/Test/ --learning_rate 0.0001 --batch_size 50 --iter 2000 --dropout 0.2 --classes 3 --output ../dataset/output
