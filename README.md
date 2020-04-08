@@ -12,3 +12,6 @@ Tensorflow model has been implemented and the code is contained in folder divide
 
 
 the built model is ( pretrained model is contained in the output folder) 
+
+
+<b> To run the code just download the repository and then run the shell file</b>
